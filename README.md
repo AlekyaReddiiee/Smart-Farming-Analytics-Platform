@@ -5,12 +5,12 @@
 
 This project integrates **Arduino UNO** with multiple sensors and a machine learning layer to proactively monitor and predict crop health, aiming to prevent crop failure. By leveraging environmental data and intelligent classification, it provides actionable insights to farmers and stakeholders, ensuring timely interventions and sustainable agriculture practices.  
 
----
+
 
 ## 🌟 **Mission**  
 To **empower farmers** and stakeholders by providing early warnings of potential crop failure, enabling preventive measures through real-time environmental monitoring and machine learning predictions.
 
----
+
 
 ## 🔧 **How It Works**  
 
@@ -24,7 +24,7 @@ To **empower farmers** and stakeholders by providing early warnings of potential
 ### **2. Machine Learning Layer**  
 A **K-Nearest Neighbors (KNN)** algorithm forms the backbone of the prediction system, processing data to identify potential risks.  
 
----
+
 
 ## 🛠️ **Phases of Operation**  
 
@@ -51,7 +51,7 @@ A **K-Nearest Neighbors (KNN)** algorithm forms the backbone of the prediction s
    - The system identifies the **most probable cause** of degradation.  
    - Through an intuitive **User Interface (UI)**, stakeholders receive recommendations on necessary preventive steps.  
 
----
+
 
 ## 🛠️ **Technologies Used**  
 
@@ -78,7 +78,7 @@ This project leverages a blend of hardware and software technologies to enable r
 - **Data Visualization**: Tools like **Matplotlib** or **Seaborn** for representing trends in sensor data.  
 - **IoT Communication**: Potential integration of wireless communication modules like **Wi-Fi (ESP8266)** for remote monitoring.  
 
----
+
 
 ## 🎯 **Key Features**  
 - **Real-Time Monitoring**: Sensors provide live environmental readings.  
@@ -86,12 +86,12 @@ This project leverages a blend of hardware and software technologies to enable r
 - **Actionable Guidance**: Delivers precise steps to mitigate risks via the UI.  
 - **Sustainable Farming**: Aims to optimize resources and reduce crop loss.  
 
----
+
 
 ## 🌐 **Impact**  
 This project is a step forward in **precision agriculture**, addressing the challenges of unpredictable crop health and environmental risks. By integrating IoT and machine learning, it provides farmers with tools to make **data-driven decisions** and ensures long-term agricultural sustainability.  
 
----
+
 
 **Empowering agriculture with technology to ensure healthier crops and a sustainable future!** 🌾✨  
 
