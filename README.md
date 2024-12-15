@@ -1,6 +1,8 @@
 # Smart-Farming-Analytics-Platform 🌱
 ![image](https://github.com/user-attachments/assets/87a0f68e-4e89-4e60-9159-011b43bb65b1)
-![image](https://github.com/user-attachments/assets/d5b624a0-ea76-440a-8b7d-e58898aa3f13)
+
+<img src="https://github.com/user-attachments/assets/87a0f68e-4e89-4e60-9159-011b43bb65b1" alt="Image Description" width="500" height="300" />
+
 
 
 This project integrates **Arduino UNO** with multiple sensors and a machine learning layer to proactively monitor and predict crop health, aiming to prevent crop failure. By leveraging environmental data and intelligent classification, it provides actionable insights to farmers and stakeholders, ensuring timely interventions and sustainable agriculture practices.  
