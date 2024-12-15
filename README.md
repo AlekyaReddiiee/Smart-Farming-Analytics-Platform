@@ -1,1 +1,1 @@
-# Smart-Farming-Analytics-Platform-
+# Smart-Farming-Analytics-Platform
