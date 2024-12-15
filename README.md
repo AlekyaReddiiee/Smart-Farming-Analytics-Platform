@@ -1,7 +1,7 @@
 # Smart-Farming-Analytics-Platform 🌱
 ![image](https://github.com/user-attachments/assets/87a0f68e-4e89-4e60-9159-011b43bb65b1)
 
-<img src="https://github.com/user-attachments/assets/87a0f68e-4e89-4e60-9159-011b43bb65b1" alt="Image Description" width="500" height="300" />
+<img src="https://github.com/user-attachments/assets/87a0f68e-4e89-4e60-9159-011b43bb65b1" alt="Image Description" width="600" height="300" />
 
 
 
